@@ -7,6 +7,7 @@ class GroceryListSerializer(serializers.ModelSerializer):
         fields = (
             'id',
             'item',
+            'quantity',
             'completed',
         )
         model = Grocerylist
