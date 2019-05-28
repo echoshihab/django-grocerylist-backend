@@ -1,3 +1,4 @@
 {
-    "python.formatting.provider": "autopep8"
+    "python.formatting.provider": "autopep8",
+    "python.pythonPath": "C:\\Users\\CEN-ISIT-NB01\\Desktop\\Projects\\django-react\\env\\Scripts\\python.exe"
 }
